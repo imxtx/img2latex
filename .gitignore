@@ -41,12 +41,6 @@ venv.bak/
 
 # Project specific
 output/
-*.png
-*.jpg
-*.jpeg
-*.bmp
-*.json
-*.log
 
 # Jupyter Notebook
 .ipynb_checkpoints
